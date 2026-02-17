@@ -1,0 +1,14 @@
+﻿
+# backup ignore rules for github upload
+node_modules/
+dist/
+build/
+target/
+.idea/
+.vscode/
+.m2repo/
+*.log
+nul
+uploads/
+*.tmp
+*.cache
